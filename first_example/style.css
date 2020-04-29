@@ -1,0 +1,17 @@
+h1  {
+    background: purple;
+    color: white;
+}
+
+li {
+    color: blue;
+}
+
+ul {
+    display: block;
+    margin-left: 150px;
+}
+
+h2 {
+    margin-left: 100px;
+}
